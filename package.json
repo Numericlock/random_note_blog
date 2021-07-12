@@ -1,0 +1,25 @@
+{
+  "name": "random_note_blog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/sitemap": "^2.4.0",
+    "core-js": "^3.15.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nuxt": "^2.15.7",
+    "prism-themes": "^1.7.0",
+    "sqlite3": "^5.0.2",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.1",
+    "@nuxt/content": "^1.0.0"
+  }
+}
